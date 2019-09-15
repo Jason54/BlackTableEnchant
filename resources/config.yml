@@ -1,0 +1,24 @@
+
+version: 1
+
+swordEnchantments:
+  - sharpness:15
+  - unbreaking:18
+  - looting:2
+  - fire_aspect:2
+armorEnchantments:
+  - protection:15
+  - thorns:3
+  - unbreaking:18
+  - feather_falling:3
+toolEnchantments:
+  - fortune:9
+  - unbreaking:18
+  - efficiency:5
+bowEnchantments:
+  - punch:25
+  - power:5
+  - unbreaking:18
+  - flame:30
+
+
